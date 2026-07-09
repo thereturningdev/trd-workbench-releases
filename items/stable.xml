@@ -1,9 +1,9 @@
 <item>
-            <title>0.6.0</title>
-            <pubDate>Tue, 07 Jul 2026 08:01:48 +0000</pubDate>
-            <sparkle:version>2026.0707.0758</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <title>0.7.0</title>
+            <pubDate>Thu, 09 Jul 2026 23:05:00 +0000</pubDate>
+            <sparkle:version>2026.0709.2301</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/thereturningdev/trd-workbench-releases/releases/download/v0.6.0/TRD-Workbench-0.6.0.dmg" length="5798135" type="application/octet-stream" sparkle:edSignature="TkCk1K3wacI2qK+64SriCokCSE/ZDjX2rprUps/vsm/iyWR/96b3v9RpN/JKW0yR7GoAQOjapMWXDvy2i9AACA=="/>
+            <enclosure url="https://github.com/thereturningdev/trd-workbench-releases/releases/download/v0.7.0/TRD-Workbench-0.7.0.dmg" length="5779142" type="application/octet-stream" sparkle:edSignature="x2+m4U2V/unaKKAyIiovBF5dl0JaQGwqGaw/JgmXXbnTa0RESUjk37TWZycGRWqH/gv7KueVca2EbrClNC5ZCw=="/>
         </item>
