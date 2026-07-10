@@ -12,14 +12,14 @@
             <enclosure url="https://github.com/thereturningdev/trd-workbench-releases/releases/download/v0.7.0/TRD-Workbench-0.7.0.dmg" length="5779142" type="application/octet-stream" sparkle:edSignature="x2+m4U2V/unaKKAyIiovBF5dl0JaQGwqGaw/JgmXXbnTa0RESUjk37TWZycGRWqH/gv7KueVca2EbrClNC5ZCw=="/>
         </item>
 <item>
-            <title>0.6.1-beta.3</title>
-            <pubDate>Wed, 08 Jul 2026 12:58:23 +0000</pubDate>
+            <title>0.7.1-beta.1</title>
+            <pubDate>Fri, 10 Jul 2026 00:49:31 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>2026.0708.1039</sparkle:version>
-            <sparkle:shortVersionString>0.6.1-beta.3</sparkle:shortVersionString>
+            <sparkle:version>2026.0710.0023</sparkle:version>
+            <sparkle:shortVersionString>0.7.1-beta.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/thereturningdev/trd-workbench-releases/releases/download/v0.6.1-beta.3/TRD-Workbench-0.6.1-beta.3.dmg" length="5779145" type="application/octet-stream" sparkle:edSignature="oEHqzlzkZoI4D0EQ3A0mrF+S/C5oAYMqVi8Pi0oNNURK3DWck0gc023JaWJ2BPejCZ1CheVvcEaK6KfYz05/Aw=="/>
+            <enclosure url="https://github.com/thereturningdev/trd-workbench-releases/releases/download/v0.7.1-beta.1/TRD-Workbench-0.7.1-beta.1.dmg" length="5755919" type="application/octet-stream" sparkle:edSignature="e/DZJwLtVSM5uAuswxcnZRc+i29SoZxWKMX4EV5uKe6TqUQtGRjMrMhiAMg5FEb9LlOh0D83kQNc52Pns4RwAQ=="/>
         </item>
   </channel>
 </rss>
