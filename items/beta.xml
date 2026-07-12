@@ -1,10 +1,10 @@
 <item>
-            <title>0.8.1-beta.1</title>
-            <pubDate>Sun, 12 Jul 2026 20:43:54 +0900</pubDate>
+            <title>0.8.1-beta.2</title>
+            <pubDate>Sun, 12 Jul 2026 21:19:25 +0900</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>2026.0712.1139</sparkle:version>
-            <sparkle:shortVersionString>0.8.1-beta.1</sparkle:shortVersionString>
+            <sparkle:version>2026.0712.1212</sparkle:version>
+            <sparkle:shortVersionString>0.8.1-beta.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/thereturningdev/trd-workbench-releases/releases/download/v0.8.1-beta.1/TRD-Workbench-0.8.1-beta.1.dmg" length="6612280" type="application/octet-stream" sparkle:edSignature="Z0VjTJQjojlV7Qm8yrt0I8re6NJl1fMSe9YMXdme7AvHm7F25GQ0aaOQygWkaCuqY02n8JJyJtbgFHeJ3dhQAQ=="/>
+            <enclosure url="https://github.com/thereturningdev/trd-workbench-releases/releases/download/v0.8.1-beta.2/TRD-Workbench-0.8.1-beta.2.dmg" length="6612595" type="application/octet-stream" sparkle:edSignature="ct/Z+ZUlS1s/kxI7ha1RP/5MpiNgS5CAZmHfp1zPV0ULJPKEfISWrmub2M3+5N+//ZOP2K9dltN8Ufxlg6v2Aw=="/>
         </item>
